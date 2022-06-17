@@ -1,0 +1,8 @@
+[package]
+name = "rust-display-case"
+version = "0.0.1"
+authors = ["Justin Miller"]
+edition = "2021"
+
+[dependencies]
+bevy = { version = "0.7.0", features = [] } # make sure this is the latest version
